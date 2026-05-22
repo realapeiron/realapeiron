@@ -33,7 +33,7 @@ const apeiron = {
   studios: ["1v2 Studio", "APN LLC"],
   thinks_in: "systems, not features",
   quality_bar: ["Riot", "Supercell", "Stripe", "GitHub"],
-  cant_stand: ["AI-looking UI", "overselling", "toy-example backends", "reskins"],
+  cant_stand: ["overselling", "toy-example backends", "reskins"],
   rituals: "GDD → systems map → admin panel plan → first script",
   hardware: ["M4 Max", "RTX 4090"],
   fuel: "Turkish home cooking + sad Turkish trap on loop",
